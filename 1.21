@@ -1,0 +1,19 @@
+#%Module
+module-whatis	 "Loads samtools/1.21 module.
+
+This module was built on Fri Oct 25 02:14:35 PM EDT 2024
+
+samtools
+
+The script used to build this module can be found here: https://github.com/northeastern-rc-software-modules/samtools-1.21
+
+To load the module, type:
+module load samtools/1.21
+
+"
+
+conflict	 samtools
+prepend-path	 PATH /shared/EL9/explorer/samtools/1.21/bin
+prepend-path       LIBRARY_PATH /shared/EL9/explorer/samtools/1.21/lib
+prepend-path       LD_LIBRARY_PATH /shared/EL9/explorer/samtools/1.21/lib
+prepend-path       CPATH /shared/EL9/explorer/samtools/1.21/include
