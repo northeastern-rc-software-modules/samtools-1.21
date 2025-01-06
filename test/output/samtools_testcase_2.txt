@@ -1,0 +1,13 @@
+========================================================
+Test Case 2: Process BAM File Using Samtools
+Job ID: 4009
+Node: d0003
+Start Time: Mon Jan  6 10:22:39 AM EST 2025
+========================================================
+Creating a synthetic SAM file...
+Converting SAM to BAM...
+Sorting BAM file...
+Indexing sorted BAM file...
+BAM file processed successfully (sorted and indexed).
+End Time: Mon Jan  6 10:22:39 AM EST 2025
+========================================================
